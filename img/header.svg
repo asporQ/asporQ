@@ -64,7 +64,7 @@
     <!-- title -->
     <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
       <text x="600" y="122" font-size="62" font-style="italic" fill="#1B2038" opacity="0.35" filter="url(#soft)">hi, i'm Porpor Arkash</text>
-      <text x="600" y="118" font-size="62" font-style="italic" fill="#FFFFFF">hi, i'm Por</text>
+      <text x="600" y="118" font-size="62" font-style="italic" fill="#FFFFFF">hi, Porpor Arkash</text>
       <text x="600" y="164" font-size="18" letter-spacing="3" fill="#FFFFFF" opacity="0.92" font-family="'Trebuchet MS', Verdana, sans-serif">frontend dev · tinkerer · collector of small stars</text>
     </g>
     <use xlink:href="#sparkle" x="813" y="72" width="20" height="20" fill="#FFFFFF"/>
