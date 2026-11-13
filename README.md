@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="hi, i'm Por" />
+<img src="img/header.svg" width="100%" alt="hi, i'm Por" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=C77DBA&center=true&vCenter=true&width=520&height=40&lines=%E2%9C%A7+building+little+tools+that+feel+like+magic;%E2%8B%86+turning+data+into+things+you+can+see;%E2%99%A1+curious+about+almost+everything;%F0%9F%A6%86+a+duck%3A+walks%2C+swims%2C+and+flies+a+bit" alt="typing animation" />
@@ -100,6 +100,6 @@
 
 `⋆ ˚｡⋆୨୧˚ stay curious, stay sparkly ˚୨୧⋆｡˚ ⋆`
 
-<img src="assets/footer.svg" width="100%" alt="stay curious, stay sparkly" />
+<img src="img/footer.svg" width="100%" alt="stay curious, stay sparkly" />
 
 </div>
